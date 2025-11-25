@@ -1,5 +1,9 @@
-- numpy
-- pandas
-- scipy
-- matplotlib
-- xarray
+pandas
+numpy
+jupyterlab
+matplotlib
+scipy
+xarray
+tables
+xlrd
+multiprocess
